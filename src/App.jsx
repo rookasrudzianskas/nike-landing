@@ -1,6 +1,6 @@
 import { Nav } from "./components";
 import {
-  // CustomerReviews,
+  CustomerReviews,
   // Footer,
   Hero,
   PopularProducts,
@@ -30,7 +30,7 @@ const App = () => {
         <SpecialOffer />
       </section>
       <section className='bg-pale-blue padding'>
-      {/*  <CustomerReviews />*/}
+        <CustomerReviews />
       </section>
       <section className='padding-x sm:py-32 py-16 w-full'>
       {/*  <Subscribe />*/}
