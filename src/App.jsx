@@ -10,6 +10,7 @@ import {
   SuperQuality,
 } from "./sections";
 
+
 const App = () => {
   return (
     <main className='relative'>
